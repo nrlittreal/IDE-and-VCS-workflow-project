@@ -6,9 +6,9 @@ int main()
 {
   char first, middle, last;
   
-  first = 'N';
+  first = 'L';
   middle = 'R';
-  last = 'L';
+  last = 'N';
 
   cout << first << middle << last;
   return 0;
